@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<hmtl lang ="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible"content="IE=edge">
+<meta name="viewpoint"content="wdthdevice-width ,initial-scale=1.0">
+<title>Personal Portfolio</title> 
+<link rel="stylesheet"href="style.css">
+</head>
+<body> 
+    <div class="ayanda">
+        <nav>
+            
+        <ul>
+            <li><a href="#">HOME</a>
+            </li>
+            <li><a href="#">ABOUT</a>
+            </li>
+            <li><a href="#">CONTACT</a>
+            </li>
+            <li><a href="#">PROJECTS</a>
+                
+            </li>
+        </ul>
+        </nav>
+        <div class="detel">
+            <h1>I'm Ayanda <span>Mbovane</span></h1>
+
+            <p>This is my official Porfolio website to show all of my work and project
+            <br> details and work exprience web development
+            </p>
+        <a href="#">View CV</a>
+        
+        </div>
+        </div>
+    </div>
+    <div class="images-img">
+        <img id="picka" src="ayass.png" right-width="900">
+      </div>
+</body>
+</hmtl>
